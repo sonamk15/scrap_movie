@@ -1,0 +1,18 @@
+{
+ "name": "Satya",
+ "Director": [
+  "Ram Gopal Varma"
+ ],
+ "country": "India",
+ "language": [
+  "Hindi",
+  "Urdu",
+  "Marathi"
+ ],
+ "poster_image_url": "https://www.imdb.com/title/tt0195231/mediaviewer/rm1028559360",
+ "Bio": "An innocent man is embroiled in underworld after being falsely charged and sets out to punish the perpetrators who subjected his life to misery.",
+ "movie_runtime": 170,
+ "gener": [
+  "Action"
+ ]
+}

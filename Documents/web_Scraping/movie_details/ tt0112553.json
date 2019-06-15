@@ -1,0 +1,17 @@
+{
+ "name": "Bombay",
+ "Director": [
+  "Mani Ratnam"
+ ],
+ "country": "India",
+ "language": [
+  "Tamil",
+  "Hindi"
+ ],
+ "poster_image_url": "https://www.imdb.com/title/tt0112553/mediaviewer/rm4020112128",
+ "Bio": "A Hindu man and a Muslim woman fall in love in a small village and move to Mumbai, where they have two children. However, growing religious tensions and erupting riots threaten to tear the family apart.",
+ "movie_runtime": 141,
+ "gener": [
+  "Drama"
+ ]
+}

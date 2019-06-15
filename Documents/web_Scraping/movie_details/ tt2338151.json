@@ -1,0 +1,20 @@
+{
+ "name": "PK",
+ "Director": [
+  "Rajkumar Hirani"
+ ],
+ "country": "India",
+ "language": [
+  "Hindi",
+  "English",
+  "Urdu",
+  "Persian",
+  "Kurdish"
+ ],
+ "poster_image_url": "https://www.imdb.com/title/tt2338151/mediaviewer/rm419297536",
+ "Bio": "An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religion on its people.",
+ "movie_runtime": 153,
+ "gener": [
+  "Comedy"
+ ]
+}
