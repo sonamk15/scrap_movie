@@ -222,25 +222,26 @@ def  get_movie_list_details(movies):
     return scrape_top_list
 
 # task 10
+
 data=(get_movie_list_details(movie_urls))
 
 def analyse_language_and_directors(movies):
-    language_and_directors={}
+    dictionary={}
     c=1
     for i in movies:
         language=i['language']
         director = i['Director']
         for key in director:
-            if key not in language_and_directors:
-                language_and_directors[key]={}
+            if key not in dictionary:
+                dictionary[key]={}
             for v in language:
-                if v not in language_and_directors[key]:
-                    language_and_directors[key][v]=c
+                if v not in dictionary[key]:
+                    dictionary[key][v]=c
                 else:
-                    language_and_directors[key][v]+=1
-    return (language_and_directors)
+                    dictionary[key][v]+=1
+    return (dictionary)
 
-# pprint(analyse_language_and_directors(data))
+pprint(analyse_language_and_directors(data))
 
 # task 11
 def  analyse_movies_genre(movies):
@@ -257,19 +258,8 @@ def  analyse_movies_genre(movies):
     return genre_dictionary
     # analyse_movies_genre(data)
 
-
-# pprint(analyse_movies_genre(data))
-# movie_list=get_movie_list_details(movie_urls)
-# def  analyse_co_actors(movie_list):
-#     actors_dict = {}
-# 	for movie in movies_list:
-# 		actors_dict[movie['cast'][0]['imdb_id']] = {
-# 		'name':movie['cast'][0]['name'],'frequent_co_actors':[]}
-# 	    co_actors_dict = {'imdb_id':'','name':'','num_movies':0}
-    # return actors_dict
-
 # 14th task
-# movie_list=get_movie_list_details(movie_urls)
+movie_list=get_movie_list_details(movie_urls)
 def  analyse_co_actors(movie_list):
     dic={}
     actors=[]
@@ -293,15 +283,11 @@ def  analyse_co_actors(movie_list):
         for i in co_actor:
             c=0
             dic1={}
-        
             for j in movie_list:
                 cast1=j['cast']
                 for k in cast1:
- 				    if (dic[id]['name'] and i) in k['name']:
-                        dic1['imdb_id'] = k['imdb_id']
-			    		dic1['name'] = k ['name']
-
-            dic[id]['movies_num']=c
+                    dic1['imdb_id'] = k['imdb_id']
+                    dic1['name'] = k ['name']
             dic[id]['frequent_co_actors'].append(dic1)
             dic1={}
         actors.append(dic)
@@ -310,25 +296,4 @@ def  analyse_co_actors(movie_list):
     return actors
 
 
-pprint(analyse_co_actors(movie_list))
-#     actors_dic={}
-#     for cast in movie_list:
-#         movie_cast=cast['cast']
-#         main_id=movie_cast[0]['imdb_id']
-#         actors_dic[main_id]={}
-#         dict1={}
-#         count=1
-#         for i in movie_cast[:2]:
-#             if i == movie_cast[0]:
-#                 name=i['name']
-#                 dict1['name']=name
-#             else:
-#                 co_actor_name=i['name']
-#                 co_actor_id=i['imdb_id']
-#                 dict1['frequent_co_actors']=[{'name':co_actor_name,'imdb_id':co_actor_id,"num_movies":count}]
-#             actors_dic[main_id]=dict1
-#         count+=1
-
-
-#     return actors_dic
 # pprint(analyse_co_actors(movie_list))
