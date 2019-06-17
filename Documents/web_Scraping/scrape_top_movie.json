@@ -76,5 +76,691 @@
     "imdb_id": "nm0802107"
    }
   ]
+ }, 
+ {
+  "movie_runtime": 160, 
+  "Bio": "A man goes to extreme lengths to save his family from punishment after the family commits an accidental crime.", 
+  "name": "Drishyam", 
+  "language": [
+   "Malayalam", 
+   "English"
+  ], 
+  "poster_image_url": "https://www.imdb.com/title/tt3417422/mediaviewer/rm1888280832", 
+  "country": "India", 
+  "gener": [
+   "Crime"
+  ], 
+  "Director": [
+   "Jeethu Joseph"
+  ], 
+  "cast": [
+   {
+    "name": "Mohanlal", 
+    "imdb_id": "nm0482320"
+   }, 
+   {
+    "name": "Meena", 
+    "imdb_id": "nm0576169"
+   }, 
+   {
+    "name": "Ansiba", 
+    "imdb_id": "nm6189602"
+   }, 
+   {
+    "name": "Esther", 
+    "imdb_id": "nm6189601"
+   }, 
+   {
+    "name": "Kalabhavan Shajohn", 
+    "imdb_id": "nm3175230"
+   }, 
+   {
+    "name": "Asha Sharath", 
+    "imdb_id": "nm5242011"
+   }, 
+   {
+    "name": "Siddique", 
+    "imdb_id": "nm1388202"
+   }, 
+   {
+    "name": "Roshan Basheer", 
+    "imdb_id": "nm5573884"
+   }, 
+   {
+    "name": "Pradeep Chandran", 
+    "imdb_id": "nm5574220"
+   }, 
+   {
+    "name": "Kalabhavan Haneef", 
+    "imdb_id": "nm3495929"
+   }, 
+   {
+    "name": "Irshad", 
+    "imdb_id": "nm1411548"
+   }, 
+   {
+    "name": "Koottickal Jayachandran", 
+    "imdb_id": "nm1334387"
+   }, 
+   {
+    "name": "Kunchan", 
+    "imdb_id": "nm0475070"
+   }, 
+   {
+    "name": "Neeraj Madhav", 
+    "imdb_id": "nm6697626"
+   }, 
+   {
+    "name": "Aneesh Menon", 
+    "imdb_id": "nm4920900"
+   }
+  ]
+ }, 
+ {
+  "movie_runtime": 156, 
+  "Bio": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.", 
+  "name": "Nayakan", 
+  "language": [
+   "Tamil", 
+   "Hindi", 
+   "English", 
+   "Telugu"
+  ], 
+  "poster_image_url": "https://www.imdb.com/title/tt0093603/mediaviewer/rm425418752", 
+  "country": "India", 
+  "gener": [
+   "Crime"
+  ], 
+  "Director": [
+   "Mani Ratnam"
+  ], 
+  "cast": [
+   {
+    "name": "Kamal Haasan", 
+    "imdb_id": "nm0352032"
+   }, 
+   {
+    "name": "Saranya Ponvannan", 
+    "imdb_id": "nm0764853"
+   }, 
+   {
+    "name": "Delhi Ganesh", 
+    "imdb_id": "nm0304265"
+   }, 
+   {
+    "name": "Janagaraj", 
+    "imdb_id": "nm0417301"
+   }, 
+   {
+    "name": "Karthika", 
+    "imdb_id": "nm0440232"
+   }, 
+   {
+    "name": "Nassar", 
+    "imdb_id": "nm0621937"
+   }, 
+   {
+    "name": "Tinnu Anand", 
+    "imdb_id": "nm0025627"
+   }, 
+   {
+    "name": "Nizhalgal Ravi", 
+    "imdb_id": "nm0712437"
+   }, 
+   {
+    "name": "M.V. Vasudeva Rao", 
+    "imdb_id": "nm1115041"
+   }
+  ]
+ }, 
+ {
+  "movie_runtime": 160, 
+  "Bio": "Two men, one young and arrogant, the other damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fate.", 
+  "name": "AnbeSivam", 
+  "language": [
+   "Tamil", 
+   "Hindi"
+  ], 
+  "poster_image_url": "https://www.imdb.com/title/tt0367495/mediaviewer/rm3025237504", 
+  "country": "India", 
+  "gener": [
+   "Adventure"
+  ], 
+  "Director": [
+   "Sundar C."
+  ], 
+  "cast": [
+   {
+    "name": "Kamal Haasan", 
+    "imdb_id": "nm0352032"
+   }, 
+   {
+    "name": "Madhavan", 
+    "imdb_id": "nm0534856"
+   }, 
+   {
+    "name": "Kiran Rathod", 
+    "imdb_id": "nm0993256"
+   }, 
+   {
+    "name": "Nassar", 
+    "imdb_id": "nm0621937"
+   }, 
+   {
+    "name": "Santhana Bharathi", 
+    "imdb_id": "nm0080248"
+   }, 
+   {
+    "name": "Uma Riyaz Khan", 
+    "imdb_id": "nm1428808"
+   }, 
+   {
+    "name": "Yugi Sethu", 
+    "imdb_id": "nm1429474"
+   }, 
+   {
+    "name": "Ilavarasu", 
+    "imdb_id": "nm0369696"
+   }, 
+   {
+    "name": "Balu Anand", 
+    "imdb_id": "nm1428051"
+   }, 
+   {
+    "name": "Seema", 
+    "imdb_id": "nm0781630"
+   }, 
+   {
+    "name": "R.S. Shivaji", 
+    "imdb_id": "nm0794478"
+   }, 
+   {
+    "name": "Laxmi Rattan", 
+    "imdb_id": "nm1429352"
+   }, 
+   {
+    "name": "Chelladurai", 
+    "imdb_id": "nm1428279"
+   }, 
+   {
+    "name": "Hillaary", 
+    "imdb_id": "nm1428684"
+   }, 
+   {
+    "name": "Jacob", 
+    "imdb_id": "nm1427699"
+   }
+  ]
+ }, 
+ {
+  "movie_runtime": 120, 
+  "Bio": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.", 
+  "name": "GolMaal", 
+  "language": [
+   "Hindi"
+  ], 
+  "poster_image_url": "https://www.imdb.com/title/tt0079221/mediaviewer/rm3716412160", 
+  "country": "India", 
+  "gener": [
+   "Comedy"
+  ], 
+  "Director": [
+   "Hrishikesh Mukherjee"
+  ], 
+  "cast": [
+   {
+    "name": "Amol Palekar", 
+    "imdb_id": "nm0657505"
+   }, 
+   {
+    "name": "Bindiya Goswami", 
+    "imdb_id": "nm0331727"
+   }, 
+   {
+    "name": "Deven Verma", 
+    "imdb_id": "nm0894340"
+   }, 
+   {
+    "name": "Shubha Khote", 
+    "imdb_id": "nm0451863"
+   }, 
+   {
+    "name": "Manju Singh", 
+    "imdb_id": "nm1542933"
+   }, 
+   {
+    "name": "Dina Pathak", 
+    "imdb_id": "nm0665544"
+   }, 
+   {
+    "name": "Pushpa", 
+    "imdb_id": "nm0701106"
+   }, 
+   {
+    "name": "David Abraham", 
+    "imdb_id": "nm0008932"
+   }, 
+   {
+    "name": "Yunus Parvez", 
+    "imdb_id": "nm0664109"
+   }, 
+   {
+    "name": "Utpal Dutt", 
+    "imdb_id": "nm0244884"
+   }, 
+   {
+    "name": "Ashwani", 
+    "imdb_id": "nm1538133"
+   }, 
+   {
+    "name": "Harish Magon", 
+    "imdb_id": "nm1442040"
+   }, 
+   {
+    "name": "Bhola", 
+    "imdb_id": "nm0080410"
+   }, 
+   {
+    "name": "Amol Sen", 
+    "imdb_id": "nm1059411"
+   }, 
+   {
+    "name": "Siddharth", 
+    "imdb_id": "nm1193461"
+   }
+  ]
+ }, 
+ {
+  "movie_runtime": 147, 
+  "Bio": "Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture Vedha, a smuggler and a murderer. Vedha tries to change Vikram's life, which leads to a conflict.", 
+  "name": "VikramVedha", 
+  "language": [
+   "Tamil", 
+   "English"
+  ], 
+  "poster_image_url": "https://www.imdb.com/title/tt6148156/mediaviewer/rm593914880", 
+  "country": "India", 
+  "gener": [
+   "Action"
+  ], 
+  "Director": [
+   "Gayatri"
+  ], 
+  "cast": [
+   {
+    "name": "Vijay Sethupathi", 
+    "imdb_id": "nm4043111"
+   }, 
+   {
+    "name": "Madhavan", 
+    "imdb_id": "nm0534856"
+   }, 
+   {
+    "name": "Shraddha Srinath", 
+    "imdb_id": "nm7744845"
+   }, 
+   {
+    "name": "Varalaxmi Sarathkumar", 
+    "imdb_id": "nm4174212"
+   }, 
+   {
+    "name": "Kathir", 
+    "imdb_id": "nm6453091"
+   }, 
+   {
+    "name": "Achyuth Kumar", 
+    "imdb_id": "nm5724719"
+   }, 
+   {
+    "name": "Manikandan", 
+    "imdb_id": "nm8904193"
+   }, 
+   {
+    "name": "Hareesh Peradi", 
+    "imdb_id": "nm5782889"
+   }, 
+   {
+    "name": "Baby Vaishnavi", 
+    "imdb_id": "nm5297321"
+   }, 
+   {
+    "name": "Prem", 
+    "imdb_id": "nm3607395"
+   }, 
+   {
+    "name": "E. Ramdoss", 
+    "imdb_id": "nm6388679"
+   }, 
+   {
+    "name": "Vivek Prasanna", 
+    "imdb_id": "nm8995905"
+   }, 
+   {
+    "name": "Gowri Lakshmi", 
+    "imdb_id": "nm6046289"
+   }, 
+   {
+    "name": "Sugunthan", 
+    "imdb_id": "nm5000739"
+   }, 
+   {
+    "name": "Rajkumar", 
+    "imdb_id": "nm5408510"
+   }
+  ]
+ }, 
+ {
+  "movie_runtime": 143, 
+  "Bio": "Black Friday is a film about the investigations following the 1993 serial Bombay bomb blasts, told through the different stories of the people involved --police, conspirators, victims, middlemen.", 
+  "name": "BlackFriday", 
+  "language": [
+   "Hindi"
+  ], 
+  "poster_image_url": "https://www.imdb.com/title/tt0400234/mediaviewer/rm557600000", 
+  "country": "India", 
+  "gener": [
+   "Action"
+  ], 
+  "Director": [
+   "Anurag Kashyap"
+  ], 
+  "cast": [
+   {
+    "name": "Kay Kay Menon", 
+    "imdb_id": "nm1946407"
+   }, 
+   {
+    "name": "Pavan Malhotra", 
+    "imdb_id": "nm0539497"
+   }, 
+   {
+    "name": "Aditya Srivastava", 
+    "imdb_id": "nm0820282"
+   }, 
+   {
+    "name": "Dibyendu Bhattacharya", 
+    "imdb_id": "nm0080349"
+   }, 
+   {
+    "name": "Kishore Kadam", 
+    "imdb_id": "nm0434263"
+   }, 
+   {
+    "name": "Gajraj Rao", 
+    "imdb_id": "nm0710549"
+   }, 
+   {
+    "name": "Zakir Hussain", 
+    "imdb_id": "nm0403984"
+   }, 
+   {
+    "name": "Somesh Agarwal", 
+    "imdb_id": "nm1326262"
+   }, 
+   {
+    "name": "Akhilesh Tripathi", 
+    "imdb_id": "nm6271541"
+   }, 
+   {
+    "name": "Imtiaz Ali", 
+    "imdb_id": "nm1665004"
+   }, 
+   {
+    "name": "Raj Arjun", 
+    "imdb_id": "nm2366974"
+   }, 
+   {
+    "name": "Ragesh Asthana", 
+    "imdb_id": "nm1616361"
+   }, 
+   {
+    "name": "Sushovan Banerjee", 
+    "imdb_id": "nm1309355"
+   }, 
+   {
+    "name": "Asif Basra", 
+    "imdb_id": "nm1794460"
+   }, 
+   {
+    "name": "Aditya Bhattacharya", 
+    "imdb_id": "nm1023986"
+   }
+  ]
+ }, 
+ {
+  "movie_runtime": 170, 
+  "Bio": "Constant rejections in his attempts to become a filmmaker and family constraints force Arun to let go of his dream and take up the job of a Police officer.", 
+  "name": "Ratsasan", 
+  "language": [
+   "Tamil"
+  ], 
+  "poster_image_url": "https://www.imdb.com/title/tt7060344/mediaviewer/rm293499136", 
+  "country": "India", 
+  "gener": [
+   "Action"
+  ], 
+  "Director": [
+   "Ram Kumar"
+  ], 
+  "cast": [
+   {
+    "name": "Radha Ravi", 
+    "imdb_id": "nm1099597"
+   }, 
+   {
+    "name": "Sangili Murugan", 
+    "imdb_id": "nm3905156"
+   }, 
+   {
+    "name": "Nizhalgal Ravi", 
+    "imdb_id": "nm0712437"
+   }, 
+   {
+    "name": "Saravanan", 
+    "imdb_id": "nm1023647"
+   }, 
+   {
+    "name": "Vinodhini Vaidynathan", 
+    "imdb_id": "nm6678966"
+   }, 
+   {
+    "name": "Gajaraj", 
+    "imdb_id": "nm6046822"
+   }, 
+   {
+    "name": "Sanjay", 
+    "imdb_id": "nm1018736"
+   }, 
+   {
+    "name": "Kumar", 
+    "imdb_id": "nm1018736"
+   }, 
+   {
+    "name": "Karunakaran", 
+    "imdb_id": "nm5369429"
+   }, 
+   {
+    "name": "Ghibran", 
+    "imdb_id": "nm4717384"
+   }, 
+   {
+    "name": "Abhirami", 
+    "imdb_id": "nm9103143"
+   }, 
+   {
+    "name": "Suzane George", 
+    "imdb_id": "nm6001916"
+   }, 
+   {
+    "name": "Munishkanth", 
+    "imdb_id": "nm6106368"
+   }, 
+   {
+    "name": "Amala Paul", 
+    "imdb_id": "nm3898762"
+   }, 
+   {
+    "name": "Sanjay", 
+    "imdb_id": "nm9088402"
+   }
+  ]
+ }, 
+ {
+  "movie_runtime": 125, 
+  "Bio": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.", 
+  "name": "PatherPanchali", 
+  "language": [
+   "Bengali"
+  ], 
+  "poster_image_url": "https://www.imdb.com/title/tt0048473/mediaviewer/rm2984380416", 
+  "country": "India", 
+  "gener": [
+   "Drama"
+  ], 
+  "Director": [
+   "Satyajit Ray"
+  ], 
+  "cast": [
+   {
+    "name": "Kanu Bannerjee", 
+    "imdb_id": "nm0052333"
+   }, 
+   {
+    "name": "Karuna Bannerjee", 
+    "imdb_id": "nm0052334"
+   }, 
+   {
+    "name": "Chunibala Devi", 
+    "imdb_id": "nm0222447"
+   }, 
+   {
+    "name": "Uma Das Gupta", 
+    "imdb_id": "nm0201871"
+   }, 
+   {
+    "name": "Subir Banerjee", 
+    "imdb_id": "nm0052343"
+   }, 
+   {
+    "name": "Runki Banerjee", 
+    "imdb_id": "nm0051846"
+   }, 
+   {
+    "name": "Reba Devi", 
+    "imdb_id": "nm0222480"
+   }, 
+   {
+    "name": "Aparna Devi", 
+    "imdb_id": "nm0222436"
+   }, 
+   {
+    "name": "Tulsi Chakraborty", 
+    "imdb_id": "nm0149831"
+   }, 
+   {
+    "name": "Haren Banerjee", 
+    "imdb_id": "nm0051836"
+   }, 
+   {
+    "name": "Rampada Das", 
+    "imdb_id": "nm5580026"
+   }, 
+   {
+    "name": "Nibhanani Devi", 
+    "imdb_id": "nm0222467"
+   }, 
+   {
+    "name": "Rama Gangopadhaya", 
+    "imdb_id": "nm0304346"
+   }, 
+   {
+    "name": "Roma Ganguli", 
+    "imdb_id": "nm0304351"
+   }, 
+   {
+    "name": "Binoy Mukherjee", 
+    "imdb_id": "nm0611518"
+   }
+  ]
+ }, 
+ {
+  "movie_runtime": 161, 
+  "Bio": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.", 
+  "name": "Dangal", 
+  "language": [
+   "Hindi", 
+   "Tamil", 
+   "Telugu"
+  ], 
+  "poster_image_url": "https://www.imdb.com/title/tt5074352/mediaviewer/rm3039822848", 
+  "country": "India", 
+  "gener": [
+   "Action"
+  ], 
+  "Director": [
+   "Nitesh Tiwari"
+  ], 
+  "cast": [
+   {
+    "name": "Aamir Khan", 
+    "imdb_id": "nm0451148"
+   }, 
+   {
+    "name": "Fatima Sana Shaikh", 
+    "imdb_id": "nm0760778"
+   }, 
+   {
+    "name": "Sanya Malhotra", 
+    "imdb_id": "nm7621667"
+   }, 
+   {
+    "name": "Sakshi Tanwar", 
+    "imdb_id": "nm2799219"
+   }, 
+   {
+    "name": "Aparshakti Khurana", 
+    "imdb_id": "nm6269780"
+   }, 
+   {
+    "name": "Zaira Wasim", 
+    "imdb_id": "nm7621668"
+   }, 
+   {
+    "name": "Suhani Bhatnagar", 
+    "imdb_id": "nm7621669"
+   }, 
+   {
+    "name": "Ritvik Sahore", 
+    "imdb_id": "nm5057209"
+   }, 
+   {
+    "name": "Girish Kulkarni", 
+    "imdb_id": "nm2971390"
+   }, 
+   {
+    "name": "Ravi Aneja", 
+    "imdb_id": "nm8624891"
+   }, 
+   {
+    "name": "Anurag Arora", 
+    "imdb_id": "nm3189957"
+   }, 
+   {
+    "name": "Mahesh Balraj", 
+    "imdb_id": "nm5129212"
+   }, 
+   {
+    "name": "Vivan Bhatena", 
+    "imdb_id": "nm1875257"
+   }, 
+   {
+    "name": "Anmol Charan", 
+    "imdb_id": "nm8664806"
+   }, 
+   {
+    "name": "Karmveer Choudhary", 
+    "imdb_id": "nm7998145"
+   }
+  ]
  }
 ]

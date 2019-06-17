@@ -211,7 +211,7 @@ def scrape_movie_detial(url):
 def  get_movie_list_details(movies):
     scrape_top_list=[]
     for url in movies:
-        if url == movies[1]:
+        if url == movies[10]:
             break
         else:
            scrapeMovies = scrape_movie_detial(url)
@@ -222,24 +222,22 @@ def  get_movie_list_details(movies):
     return scrape_top_list
 
 # task 10
-
-# data=(get_movie_list_details(movie_urls))
+data=(get_movie_list_details(movie_urls))
 
 def analyse_language_and_directors(movies):
     language_and_directors={}
+    c=1
     for i in movies:
         language=i['language']
         director = i['Director']
         for key in director:
-            language_and_directors[key]={}
-            c=1
+            if key not in language_and_directors:
+                language_and_directors[key]={}
             for v in language:
                 if v not in language_and_directors[key]:
                     language_and_directors[key][v]=c
                 else:
                     language_and_directors[key][v]+=1
-            # print (dir)
-        # print (language)
     return (language_and_directors)
 
 # pprint(analyse_language_and_directors(data))
@@ -271,7 +269,7 @@ def  analyse_movies_genre(movies):
     # return actors_dict
 
 # 14th task
-movie_list=get_movie_list_details(movie_urls)
+# movie_list=get_movie_list_details(movie_urls)
 def  analyse_co_actors(movie_list):
     dic={}
     actors=[]
@@ -293,13 +291,17 @@ def  analyse_co_actors(movie_list):
                 break
       
         for i in co_actor:
+            c=0
             dic1={}
+        
             for j in movie_list:
                 cast1=j['cast']
                 for k in cast1:
  				    if (dic[id]['name'] and i) in k['name']:
-						dic1['imdb_id'] = k['imdb_id']
-						dic1['name'] = k ['name']
+                        dic1['imdb_id'] = k['imdb_id']
+			    		dic1['name'] = k ['name']
+
+            dic[id]['movies_num']=c
             dic[id]['frequent_co_actors'].append(dic1)
             dic1={}
         actors.append(dic)
