@@ -9,12 +9,6 @@ soup = BeautifulSoup(page.text, "html.parser")
 tbody = soup.find('tbody', class_="lister-list")
 trs = tbody.find_all("tr")
 whole_data = []
-# i=trs[0]
-# link=i.find("a",href=True)["href"]
-# print link
-# url=  "https://www.imdb.com"+link
-# print url
-# Task 1
 
 
 def scrape_top_list(trs):
@@ -207,7 +201,7 @@ def scrape_movie_detial(url):
 def get_movie_list_details(movies):
     scrape_top_list = []
     for url in movies:
-        if url == movies[230]:
+        if url == movies[10]:
             break
         else:
            scrapeMovies = scrape_movie_detial(url)
@@ -216,48 +210,6 @@ def get_movie_list_details(movies):
             json.dump(scrape_top_list, file, indent=1)
 
     return scrape_top_list
-
-# task 10
-
-
-data = (get_movie_list_details(movie_urls))
-
-
-def analyse_language_and_directors(movies):
-    dictionary = {}
-    c = 1
-    for i in movies:
-        language = i['language']
-        director = i['Director']
-        for key in director:
-            if key not in dictionary:
-                dictionary[key] = {}
-            for v in language:
-                if v not in dictionary[key]:
-                    dictionary[key][v] = c
-                else:
-                    dictionary[key][v] += 1
-    return (dictionary)
-
-# pprint(analyse_language_and_directors(data))
-
-# task 11
-
-
-def analyse_movies_genre(movies):
-    genre_dictionary = {}
-    for i in movies[:5]:
-        genre = i['gener']
-        # print (genre)
-        count = 1
-        for j in genre:
-            if j not in genre_dictionary:
-                genre_dictionary[j] = count
-            else:
-                genre_dictionary[j] += 1
-    return genre_dictionary
-    # analyse_movies_genre(data)
-
 
 
 # 14th task
@@ -301,24 +253,4 @@ def analyse_co_actors(movie):
         dic={}
             
     return actors
-# pprint(analyse_co_actors(movie_list))
-
-# 15th task
-def analyse_actor(movie):
-  dic={}
-  actor=[]
-  all_actor=[]
-  for i in movie:
-        cast = i['cast']
-        count=1
-        for j in cast:
-            if j['name'] not in actor:
-                actor.append(j['name'])
-                id=j['imdb_id']
-                dic[id]={}
-                dic[id]['name']=j['name']
-                dic[id]['num_movie']=count
-            else:
-                dic[id]['num_movie']=count+1
-  return dic
-pprint(analyse_actor(movie_list))
+pprint(analyse_co_actors(movie_list))
